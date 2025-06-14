@@ -1,1 +1,4 @@
 
+[submodule "CNN"]
+	path = CNN
+	url = https://github.com/KeloShen/CNN-based-Marine-Vessel-Classification
